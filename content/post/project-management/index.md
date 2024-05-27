@@ -1,6 +1,6 @@
 ---
 title: Adriane starts at Janelia, Elizabeth Kim joins the lab.
-summary: Happy to be here!
+summary: 
 date: 2023-10-09
 tags:
   - Wowchemy
