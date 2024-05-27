@@ -44,6 +44,7 @@ interests:
   - Neuronal Biophysics
   - Circuit Dynamics
   - Complex Social Strategies
+  - Scientific Integrity
 
 education:
   - area: PhD in Neuroscience
