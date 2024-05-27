@@ -30,7 +30,7 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
+  - icon: envelope #at-symbol
     url: 'mailto:otopalika@janelia.hhmi.org'
     label: E-mail Me
   - icon: brands/github
@@ -43,7 +43,8 @@ profiles:
 interests:
   - Neuronal Biophysics
   - Circuit Dynamics
-  - Complex Social Strategies
+  - Social Behavior
+  - Virtual Worlds and Agents
   - Scientific Integrity
 
 education:
@@ -178,6 +179,4 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## About Me
-
-I'm a neuroscientist and group leader in Mechanistic Cognitive Neuroscience at the Janelia Research Campus in Ashburn, Virginia. My research group seeks to understand how fundamental circuit components--the intrinisic properties of individual neurons, their synaptic connections, and neuromodulator and receptor complements--give rise to adaptive and often idiosyncratic social behavioral strategies. 
+I'm a neuroscientist and group leader in Mechanistic Cognitive Neuroscience at the Janelia Research Campus in Ashburn, Virginia. My research group seeks to understand how fundamental circuit components--the intrinisic properties of individual neurons, their synaptic connections, and neuromodulator and receptor complements--give rise to adaptive and often idiosyncratic social behavioral strategies. In my work, I leverage  the unprecedented molecular-genetic tools available in fruit flies, in tandem with contemporary neurophysiological and computational approaches.
