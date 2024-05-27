@@ -45,7 +45,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Ongoing Projects
+      title: Projects
       filters:
         folders:
           - publication
