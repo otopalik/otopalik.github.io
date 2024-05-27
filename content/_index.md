@@ -15,9 +15,9 @@ sections:
       username: admin
       text: ""
       # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Email Me
-        url: mailto:otopalika@janelia.hhmi.org
+      # button:
+      #   text: Email Me
+      #   url: mailto:otopalika@janelia.hhmi.org
     design:
       css_class: dark
       background:
