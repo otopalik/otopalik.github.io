@@ -1,7 +1,7 @@
 ---
-title: Adriane starts at Janelia Research Campus
-summary: Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
-date: Fall 2023
+title: Adriane starts at Janelia Research Campus, Elizabeth Kim joins the lab.
+summary: 
+date: 2023-10-09
 tags:
   - Wowchemy
   - Markdown
