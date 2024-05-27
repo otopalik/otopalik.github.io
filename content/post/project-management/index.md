@@ -1,7 +1,7 @@
 ---
-title: ✅ Manage your projects
+title: Adriane starts at Janelia Research Campus
 summary: Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
-date: 2023-10-23
+date: Fall 2023
 tags:
   - Wowchemy
   - Markdown
