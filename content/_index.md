@@ -3,7 +3,7 @@
 title: "Adriane Otopalik"
 date: 2022-10-24
 type: landing
-#test
+
 
 design:
   # Default section spacing
@@ -27,7 +27,7 @@ sections:
           # Add your image background to `assets/media/`.
           filename: gridworld.jpg
           filters:
-            brightness: 1.0
+            brightness: 0.5
           size: cover
           position: center
           parallax: false
