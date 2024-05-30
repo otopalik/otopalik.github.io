@@ -25,7 +25,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: gridworld.jpg
+          filename: gridworld.png
           filters:
             brightness: 0.5
           size: cover
